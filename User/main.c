@@ -47,6 +47,7 @@ int main(void)
 		{
 			mode++;
 			if (mode > 1) mode = 0;
+			enable = 1;           /* 切模式自动恢复开启 */
 		}
 
 		uint16_t duty;
