@@ -1,0 +1,26 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.bak
+*.dep
+*.opt
+*.lnp
+*.sct
+*.map
+*.htm
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.bin
+*.build_log.htm
+
+# 工程临时文件
+*.uvguix.*
+*.uvgui.*
+*.uvoptx
+*.uvopt
+JLinkLog.txt
+JLinkSettings.ini
